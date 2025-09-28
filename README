@@ -1,0 +1,9 @@
+Para poder reproduzir esse código é necessário fazer o seguinte na parte da API:
+
+1. Gerar a imagem docker com o arquivo docker;
+2. fazer o run da imagem para gerar o container direcionando a porta 5000 para ele.
+
+Para usar o streamlit, precisamos já ter o container ativo, logo iremos precisar do seguinte:
+
+1. Com o container da API já ativo no seu localhost, use o comando "streamlit run streamlit_app.py";
+2. Pode seguir com a interface assim.

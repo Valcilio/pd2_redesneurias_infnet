@@ -1,0 +1,12 @@
+Flask==3.1.2
+keras==3.11.3
+pandas==2.2.3
+protobuf==6.32.1
+requests==2.32.3
+requests-oauthlib==2.0.0
+requests-toolbelt==1.0.0
+scikit-learn==1.6.1
+scipy==1.14.1
+tensorboard==2.20.0
+tensorboard-data-server==0.7.2
+tensorflow==2.20.0
