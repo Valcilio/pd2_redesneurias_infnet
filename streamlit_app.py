@@ -5,7 +5,7 @@ import streamlit as st
 import pandas as pd
 
 # Título do app
-st.title("Aplicativo Simples com Streamlit")
+st.title("Julgador de Ações")
 
 # Inputs de float
 close_price = st.number_input("Close Price", format="%.2f", value=5.0)
